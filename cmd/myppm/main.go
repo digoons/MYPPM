@@ -11,3 +11,5 @@ func main() {
 	//Use cfg.DatabaseURL and cfg.ServerPort to setup your application
 	fmt.Printf("Server is running on port %s\n", cfg.ServerPort)
 }
+
+//TEXTEST
