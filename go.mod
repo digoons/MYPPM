@@ -1,0 +1,3 @@
+module myppm
+
+go 1.21.3
